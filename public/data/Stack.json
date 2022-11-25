@@ -1,0 +1,12 @@
+[
+    {"id":"1","name":"HTML", "src":"/img/html.png"},
+    {"id":"2","name":"CSS", "src":"/img/css.png"},
+    {"id":"3","name":"JQUERY", "src":"/img/jquery.png"},
+    {"id":"4","name":"JAVASCRIPT", "src":"/img/javscript.png"},
+    {"id":"5","name":"SHOPIFY", "src":"/img/shopify.png"},
+    {"id":"6","name":"PHOTOSHOP", "src":"/img/photoshop.png"},
+    {"id":"7","name":"ILLUSTRATOR", "src":"/img/illust.png"},
+    {"id":"8","name":"FIGMA", "src":"/img/figma.png"},
+    {"id":"9","name":"VS CODE", "src":"/img/visualStudio.png"},
+    {"id":"10","name":"", "src":"/img/extra.png"}
+]

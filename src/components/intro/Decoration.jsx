@@ -83,7 +83,7 @@ export default function Decoration(){
                         <path fill='#000' stroke="none">
                         
                             
-                        <animate id="animation-to-check" repeatCount="indefinite" fill="freeze" attributeName="d" dur="43s"
+                        <animate id="animation-to-check" repeatCount="indefinite" fill="freeze" attributeName="d" dur="42s"
                             
                             values="
                             M493.1,203.3c-44.2-22.3-92.3-93.2-110.8-125.8C363.7,45.3,294-14.6,164.4,3.3C2.4,25.6-2.7,391.9,9.4,461.6

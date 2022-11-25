@@ -1,17 +1,12 @@
 import React from "react";
-import Button1 from './components/Button1';
-import Button2 from './components/Button2';
-import StyleComponent from "./StyleComponent";
-import TailwindComponent from './TailwindComponent';
+import Intro from "./components/intro/Intro";
+import './index.css'
 
 function App(){
     return(
-        <>
-            <Button1 />
-            <Button2 />
-            <StyleComponent />
-            <TailwindComponent />
-        </>
+        <div className="boxcontainer">
+           <Intro />
+        </div>
     )
 }
 

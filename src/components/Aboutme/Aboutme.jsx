@@ -7,13 +7,13 @@ import Mystack from "./Mystack";
 export default function Aboutme(){
 
     return(
-        <section className={styles.about}>
+        <section className={styles.about} id='about'>
             <Dacoration />
             <div className="inner1200">
-                <h3 className="title">안녕하세요, 저는 디발자 김민주 입니다 :)</h3>
+                <h3 className="title">안녕하세요,<br className="br" /> 저는 디발자 김민주 입니다 :)</h3>
                 <p className="subTitle">
-                저는 지금 프로덕트 파트에서 UX UI 디자인과 퍼블리싱을 맡고 있습니다.<br/>
-                사용하는 언어는 javascript 이고 자신있는 분야는 인터렉티브 디벨롭 입니다.
+                저는 지금 프로덕트 파트에서<br className="br" />UX UI 디자인과 퍼블리싱을 맡고 있습니다.<br className="br" /><br/>
+                사용하는 언어는 javascript 이고<br className="br" />자신있는 분야는 인터렉티브 디벨롭 입니다.
                 <br/><br/>
                 현재 리액트를 공부하고 있습니다.
                 </p>

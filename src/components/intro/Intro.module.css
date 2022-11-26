@@ -44,3 +44,24 @@
 }
 
 .mouseAni p {color: #9F9F9F; font-size: 13px; font-weight: 500; margin: 0; padding-top: 7px;}
+
+
+@media screen and (max-width: 1200px) {
+    .decoContainer .deco2 .line { display: none;}
+    .deco2 ul li.fill svg path { fill: #F3F3F3 !important; }
+    .deco2 { left: -20%; bottom: 20%; top: inherit; }
+    .deco1 {  width:80%; right: -30%; top: -20%; }
+
+    .decoContainer { padding-top: 100px; min-height: auto ; }
+    .myProfile img { width: 100px; }
+    .myProfile h2 { font-size: 25px;}
+    .myProfile p { font-size: 14px; padding-bottom: 30px; }
+
+    .navigation { margin-top: 30px; display: none; }
+    .navigation ul li a { font-size: 13px; }
+    .navigation { width: calc(100% - 40px); }
+    .navigation ul { width: 100%; padding: 0px 0;  background-color: #fff;}
+    .navigation ul li { width: 33.333%;  display: block; text-align: center; }
+    .navigation ul li a  { padding:15px 0; color: #000; width: 100%; }
+    .mouseAni { display: none; }
+}

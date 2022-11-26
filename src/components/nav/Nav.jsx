@@ -1,4 +1,4 @@
-import React, {useRef} from "react";
+import React from "react";
 import NavButton from './NavButton';
 
 
@@ -6,9 +6,9 @@ export default function Nav(){
 
     return(
         <ul>
-            <NavButton name='About Me' />
-            <NavButton name='Resume' />
-            <NavButton name='My PortFolio' />
+            <NavButton name='About Me' src='about' />
+            <NavButton name='Resume' src='resume'/>
+            <NavButton name='My PortFolio' src='portfolio' />
         </ul>
     )
 }

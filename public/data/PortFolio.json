@@ -1,0 +1,47 @@
+[
+    {"name":"핑거수트 크리스마스 프로모션", 
+    "text" : "핑거수트 크리스마스 프로모션 페이지 퍼블리시" , 
+    "src":"https://fingersuit-jp.com/a/pf_preview?id=1578bcca-a7bc-45e3-a4b3-b93ebde7a106",
+    "image":"/img/cristmas.png",
+    "stsck":["개발"]}
+    ,{"name":"핑거수트 1주년 프로모션", 
+    "text" : "핑거수트 1주년 프로모션 페이지 퍼블리시" , 
+    "src":"https://fingersuit.com/a/pf_preview?id=aa40afb2-5726-4cd8-ad4f-497e898af6b2",
+    "image":"/img/week.png",
+    "stsck":["개발"]}
+    ,{"name":"핑거수트 스타일 추천 프로모션", 
+    "text" : "핑거수트 JP 프로모션으로 SVG 애니메이션을 활용한 작업물." , 
+    "src":"https://fingersuit-jp.com/a/pf_preview?id=f64220fe-f5c1-42ec-bf65-dcd39cd06436",
+    "image":"/img/styles.png",
+    "stsck":["개발"]}
+    ,{"name":"클럭 해더, 메인페이지 개편", 
+    "text" : "디자인 및 개발요청서 작성 하여 개발업체와 소통한 작업물." , 
+    "src":"https://klug.kr/",
+    "image":"/img/klug.png",
+    "stsck":["디자인"]}
+    ,{"name":"핑거수트 해외몰", 
+    "text" : "오픈 과정부터 지금가지 운영 관리및 개편을 당담하고 있는 브랜드입니다." , 
+    "src":"https://fingersuit.com/",
+    "image":"/img/fingersuit.png",
+    "stsck":["디자인","개발"]}
+    ,{"name":"티타드 멤버십 페이지", 
+    "text" : "티타드 멤버십 페이지 퍼블리시" , 
+    "src":"https://titad.co.kr/membership.html",
+    "image":"/img/titad.png",
+    "stsck":["개발"]}
+    ,{"name":"몽제 브랜드 페이지", 
+    "text" : "몽제 브랜드 페이지 퍼블리시" , 
+    "src":"https://mongze.kr/shopinfo/company.html",
+    "image":"/img/mongze.png",
+    "stsck":["개발"]}
+    ,{"name":"핑거수트 전시회", 
+    "text" : "개인 스터디로 직접 그림을 그리고 자바스크립트를 이용하여 만든 전시회." , 
+    "src":"https://magracarta.github.io/javascript/project/metagame/index.html",
+    "image":"/img/meta.png",
+    "stsck":["디자인","그림","개발"]}
+    ,{"name":"슬라이드 애니메이션 PC", 
+    "text" : "배니티 테이블 개선을 위해 연구한 슬라이드였으나 진행이 중단되어 진행하지 못한 작업물." , 
+    "src":"http://alswn144.dothome.co.kr/VTslidetest/",
+    "image":"/img/vtslide.png",
+    "stsck":["디자인","개발"]}
+]

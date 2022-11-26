@@ -1,0 +1,36 @@
+.about { position: relative;  padding: 200px 0 0; }
+.deco1 { position: absolute; right:90px; top:80px; width: 320px; transform: rotate(180deg); }
+.deco2 { position: absolute; left:-120px; top:280px; width: 640px; transform: rotate(50deg); }
+.deco3 {position: absolute; right:-120px; top:1000px; width: 683px; transform: rotate(-50deg);  }
+ 
+
+.stackBox { margin-top:104px; padding: 100px 0 90px; position: relative; 
+    /* border: 3px dashed #DBDBDB; */ 
+    background-size: cover; background-position: 50%;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%23DBDBDBFF' stroke-width='7' stroke-dasharray=' 20' stroke-dashoffset='14' stroke-linecap='square'/%3e%3c/svg%3e");
+}
+.stackBox span {font-weight: 500;  position: absolute; top: -14px; width: 200px; left: 50%; margin-left: -100px; font-size: 18px; background: #f8f8f8; }
+.stackBox ul { display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; max-width: 654px; margin: 0 auto; }
+.stackBox ul li { width: 20%;text-align: center; margin-bottom: 50px; }
+.stackBox ul li img { width: 90px; display: inline-block; }
+.stackBox ul li p { font-size: 13px; margin-top: 9px; }
+
+
+.gitBtn { transition: all .3s;
+     padding: 15px 20px; width: 175px; margin: 35px auto 0; border-radius: 100px; display: flex; font-size: 15px; background: #000; color: #fff; justify-content: center; align-items: center;}
+.gitBtn img { width: 20px; }
+.gitBtn svg { width: 16px; position: relative; left: 0; transition: all .3s; }
+.gitBtn:hover { box-shadow: 0px 30px 60px rgb(0 0 0 / 15%); }
+.gitBtn:hover svg { left:5px; }
+
+@media screen and (max-width: 1200px) {
+    .deco1,.deco2,.deco3 { display: none; }
+    .about {padding-top: 80px;}
+    .stackBox { margin-top: 40px; padding: 40px 0 50px; background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%23DBDBDBFF' stroke-width='3' stroke-dasharray='10' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e"); }
+    .stackBox span  { display: none; }
+    .stackBox ul { margin:0 auto; padding: 0 20px; }
+    .stackBox ul li { width: 33.333%;padding: 0 7.5px; margin-bottom: 30px; }
+    .stackBox ul li p  { font-size: 10px; }
+    .stackBox ul li:last-child { display: none; }
+    .gitBtn { font-size: 13px; padding: 12px 20px; margin-top: 15px;}
+}

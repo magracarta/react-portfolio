@@ -3,7 +3,6 @@
 .portFolio .pfBox ul { margin-top: 70px; }
 .portFolio .pfBox ul li { background-color: #fff; border-radius: 10px; overflow: hidden; }
 .portFolio .pfBox ul li > div { padding-bottom: 20px;  }
-.portFolio .pfBox ul li a {  }
 .portFolio .pfBox ul li > div .textbox { margin: 0 20px; }
 .portFolio .pfBox ul li a img { width: 100%; }
 .portFolio .pfBox ul li h2 { font-size: 15px; color:#000; padding-top: 20px; font-weight: 600; }

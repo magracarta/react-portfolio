@@ -2,7 +2,7 @@
 .deco1 { position: absolute; right:90px; top:80px; width: 320px; transform: rotate(180deg); }
 .deco2 { position: absolute; left:-120px; top:280px; width: 640px; transform: rotate(50deg); }
 .deco3 {position: absolute; right:-120px; top:1000px; width: 683px; transform: rotate(-50deg);  }
-
+ 
 
 .stackBox { margin-top:104px; padding: 100px 0 90px; position: relative; 
     /* border: 3px dashed #DBDBDB; */ 

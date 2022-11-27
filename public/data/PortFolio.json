@@ -10,17 +10,17 @@
     "image":"/img/week.png",
     "stsck":["개발"]}
     ,{"name":"핑거수트 스타일 추천 프로모션", 
-    "text" : "핑거수트 JP 프로모션으로 SVG 애니메이션을 활용한 작업물." , 
+    "text" : "핑거수트 JP 프로모션으로 SVG 애니메이션을 활용한 작업." , 
     "src":"https://fingersuit-jp.com/a/pf_preview?id=f64220fe-f5c1-42ec-bf65-dcd39cd06436",
     "image":"/img/styles.png",
     "stsck":["개발"]}
     ,{"name":"클럭 해더, 메인페이지 개편", 
-    "text" : "디자인 및 개발요청서 작성 하여 개발업체와 소통한 작업물." , 
+    "text" : "디자인 및 개발요청서 작성 하여 개발업체와 소통한 작업." , 
     "src":"https://klug.kr/",
     "image":"/img/klug.png",
     "stsck":["디자인"]}
     ,{"name":"핑거수트 해외몰", 
-    "text" : "오픈 과정부터 지금가지 운영 관리및 개편을 당담하고 있는 브랜드입니다." , 
+    "text" : "오픈 과정부터 지금까지지 운영 관리및 개편을 당담하고 있는 브랜드입니다." , 
     "src":"https://fingersuit.com/",
     "image":"/img/fingersuit.png",
     "stsck":["디자인","개발"]}
@@ -40,7 +40,7 @@
     "image":"/img/meta.png",
     "stsck":["디자인","그림","개발"]}
     ,{"name":"슬라이드 애니메이션 PC", 
-    "text" : "배니티 테이블 개선을 위해 연구한 슬라이드였으나 진행이 중단되어 진행하지 못한 작업물." , 
+    "text" : "배니티 테이블 개선을 위해 연구한 슬라이드였으나 진행이 중단되어 진행하지 못한 작업." , 
     "src":"http://alswn144.dothome.co.kr/VTslidetest/",
     "image":"/img/vtslide.png",
     "stsck":["디자인","개발"]}

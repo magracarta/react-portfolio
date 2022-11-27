@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import  './Portfolio.css'
+import  './Portfolio.css';
 import SwiperBox from "./SwiperBox";
 
 
@@ -37,27 +37,6 @@ export default function Portfolio(){
 }
 
 // window.onload =()=>{
-    setTimeout(()=>{
-        var swiper = new Swiper(".mySwiper", {
-            slidesPerView: 1.5,
-            spaceBetween: 20,
-            autoplay: {
-                delay: 4000,
-                disableOnInteraction: false,
-              },
-              grabCursor: true,
-            centeredSlides: true,
-            slidesPerGroup: 1,
-            loop: true,
-            loopFillGroupWithBlank: true,
-            breakpoints: {
-                1200:{
-                    slidesPerView: 5.6,
-                    spaceBetween: 20,
-                }
-            }
-          });
-        
-    },500);
+    
 // }
 

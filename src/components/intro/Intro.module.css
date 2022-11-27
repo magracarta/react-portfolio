@@ -48,6 +48,8 @@
 
 @media screen and (max-width: 1200px) {
     .decoContainer .deco2 .line { display: none;}
+    .deco1 ul li.line svg path { stroke: #F9B530 !important; }
+    .deco1 ul li.fill svg path { fill: #F9B530 !important; }
     .deco2 ul li.fill svg path { fill: #F3F3F3 !important; }
     .deco2 { left: -20%; bottom: 20%; top: inherit; }
     .deco1 {  width:80%; right: -30%; top: -20%; }
